@@ -1,2 +1,2 @@
 # TTI
-Store Management
+Store Management from Canada
